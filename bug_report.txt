@@ -1,0 +1,16 @@
+   Title/Summary
+   Description
+   Pre-condition
+   Steps
+   Actual result
+   Expected result
+   Requirements
+   Enviroument
+   Severity
+   Priority
+   Atachments
+   Assignee
+   Sprint
+   Affects version
+   Fix versions
+
